@@ -40,7 +40,7 @@ sudo apt install ansible
 ![](https://user-images.githubusercontent.com/134618774/242301217-4a553bf8-8059-464f-b6d9-a247ddbed2ce.png)
  
 2. Настроим файл инвентаризации
- 
+Он содержит список устройств к которым будем подключатся
  
 </details>
 
