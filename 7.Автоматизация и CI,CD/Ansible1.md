@@ -41,6 +41,14 @@ sudo apt install ansible
  
 2. Настроим файл инвентаризации
 Он содержит список устройств к которым будем подключатся
+
+Создаем файл командой
+```
+sudo vim /etc/ansible/ansible.cfg 
+```
+Проверим 
+ 
+![](https://user-images.githubusercontent.com/134618774/242334976-6cff7217-d7b2-4e11-b18f-39d7f660a9eb.png) 
  
 </details>
 
