@@ -31,9 +31,9 @@
 ```
 sudo apt install ansible
 ```
- ![](https://user-images.githubusercontent.com/134618774/242299838-1ff65f75-4587-412f-9370-0a5f4b2ff25d.png)
+![](https://user-images.githubusercontent.com/134618774/242299838-1ff65f75-4587-412f-9370-0a5f4b2ff25d.png)
  
- Установка завершена
+Установка завершена
  
 2. Настроим файл инвентаризации
  
